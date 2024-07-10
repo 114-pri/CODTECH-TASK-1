@@ -11,20 +11,19 @@
 
 This Java program is designed to perform basic arithmetic operations, demonstrating fundamental programming concepts such as user input handling, control structures, and basic error checking.
 
-1.  **User Input Handling:**
-         -> Utilizes the Scanner class to read user input from the console.
-                                                                                     
+1.  **User Input Handling:**                                                                                                                                        
+         -> Utilizes the Scanner class to read user input from the console.                                                                                         
          -> Prompts the user to enter two numbers and an arithmetic operator.                                                                                         
-2.  **Arithmetic Operations:**                                                                                                                                              
+3.  **Arithmetic Operations:**                                                                                                                                              
          -> Supports addition, subtraction, multiplication, and division.                                                                                                                                    
          ->Implements a switch statement to perform the chosen operation.                                                                                                          
         
-3.  **Error Handling:**
+4.  **Error Handling:**
           Checks for division by zero to prevent runtime errors and provides appropriate feedback to the user.Validates the operator and informs the user if an invalid operator is entered.
-4.  **Output:**
+5.  **Output:**
           Displays the result of the arithmetic operation.Provides clear error messages for invalid input or operations.
 
-5. **Conclusion:**   
+6. **Conclusion:**   
               This program illustrates basic Java programming skills, including user input handling, control structures, and error checking, making it a solid demonstration of core competencies for an internship role.
 
 
