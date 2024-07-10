@@ -9,23 +9,24 @@
 
 ## OVERVIEW OF STUDENT GRADE TRACKER
 
-1.  **Grade Class:**                                                                                                                                                  
-         -> Represents a grade for a specific subject or assignment.                                                                                                
-         -> Stores the subject name and the score received.                                                                                                         
-         -> Provides methods to retrieve the subject and score.                                                                                                     
-         -> Overrides the toString method to display grade information.
-2.  **Student Class:**                                                                                                                                              
-         -> Represents a student.                                                                                                                                     
-         -> Stores the student's name and a list of grades.                                                                                                           
-         -> Provides methods to add a grade, retrieve the list of grades, and get the student's name.                                                                 
-         -> Calculates the average score from the list of grades.                                                                                                     
-         -> Determines the letter grade and GPA based on the average score.                                                                                           
-         -> Overrides the toString method to display the student's overall grade information.
-3.  **GradeManagementSystem Class:**
-           The GradeManagementSystem class manages students and their grades, using a list to store the students. It provides methods to create new students and 
-    retrieve students by name. Additionally, it contains the main method to run the grade management system.
-4.  **Main Method:**
-.          Provides a simple text-based user interface for interacting with the grade management system.
+This Java program is designed to perform basic arithmetic operations, demonstrating fundamental programming concepts such as user input handling, control structures, and basic error checking.
+
+1.  **User Input Handling:**
+         -> Utilizes the Scanner class to read user input from the console.
+                                                                                     
+         -> Prompts the user to enter two numbers and an arithmetic operator.                                                                                         
+2.  **Arithmetic Operations:**                                                                                                                                              
+         -> Supports addition, subtraction, multiplication, and division.                                                                                                                                    
+         ->Implements a switch statement to perform the chosen operation.                                                                                                          
+        
+3.  **Error Handling:**
+          Checks for division by zero to prevent runtime errors and provides appropriate feedback to the user.Validates the operator and informs the user if an invalid operator is entered.
+4.  **Output:**
+          Displays the result of the arithmetic operation.Provides clear error messages for invalid input or operations.
+
+5. **Conclusion:**   
+              This program illustrates basic Java programming skills, including user input handling, control structures, and error checking, making it a solid demonstration of core competencies for an internship role.
+
 
 
 
