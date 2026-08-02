@@ -9,7 +9,7 @@
 
 ## OVERVIEW OF STUDENT GRADE TRACKER
 
-This Java program is designed to perform basic arithmetic operations, demonstrating fundamental programming concepts such as user input handling, control structures, and basic error checking.
+This Java program is designed to perform basic arithmetic operations, demonstrating fundamental programming concepts such as user input handling, control structures, and basic error checking..
 
 1.  **User Input Handling:**                                                                                                                                        
          -> Utilizes the Scanner class to read user input from the console.                                                                                         
